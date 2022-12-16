@@ -16,6 +16,10 @@ This projects implements the Trie Data Structure to create an autocomplete featu
 
 ## Overview
 
+- Live Demo:👇
+
+- [x] [samirpaul.in/autocomplete](https://samirpaul1.github.io/autocomplete/)
+
 ### The challenge
 
 Users should be able to:
