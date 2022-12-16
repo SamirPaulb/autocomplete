@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./img/screenshot.png)
+<a href="#"> <img src="img/screenshot.png"/> </a>
 
 ### Links
 
@@ -47,4 +47,4 @@ I learned how the Trie data structure works and how it can be used to complete a
 
 ## Author
 
-- Website - [Samir Paul](https://samirpaul1.github.io)
+- [Samir Paul](https://samirpaul1.github.io)
