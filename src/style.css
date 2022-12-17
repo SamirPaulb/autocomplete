@@ -3,6 +3,10 @@
 	margin : 0px ;
 }
 
+.input {
+	text-align: center;
+  }
+
 .input-form {
 	margin: 0 auto;
 	max-width: 55%;
