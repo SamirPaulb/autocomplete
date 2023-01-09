@@ -19,6 +19,10 @@ This projects implements the Trie Data Structure to create an autocomplete featu
 - Live Demo:👇
 
 - [x] [samirpaul.in/autocomplete](https://samirpaul1.github.io/autocomplete/)
+- [x] [trieautocomplete.vercel.app](https://trieautocomplete.vercel.app/)
+- [x] [autocomplete-search.pages.dev](https://autocomplete-search.pages.dev/)
+- [x] [trie-autocomplete.netlify.app](https://trie-autocomplete.netlify.app/)
+
 
 ### The challenge
 
